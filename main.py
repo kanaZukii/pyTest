@@ -1,1 +1,4 @@
-print(f"Hellow")
+
+name = "stephen"
+
+print(name)
