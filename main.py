@@ -1,9 +1,8 @@
 
-name = "stephen"
+name = "Hello"
 
 print(name)
-
-if name != "Stephen":
-    print("Hello")
+if name != "Hello":
+    print(f"That is a name")
 else:
-    print("Hi")
+    print(f"Fuck you")
