@@ -1,5 +1,6 @@
+import testfile
 
-name = "Hello"
+name = "stephen"
 
 print(name)
 if name != "Hello":
@@ -8,3 +9,6 @@ else:
     print(f"Fuck you")
 
 
+testfile.maybe()
+
+# this is a test
